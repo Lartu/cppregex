@@ -14,7 +14,7 @@ This is `#include "cppregex.h"` for those of us that like to copy & paste.
 Examples for every function in the library are written in `example.cpp`.
 
 ## Documentation
-Cpp regex includes the following functions:
+Cppregex includes the following functions:
 
 - **`bool regexMatch(string text, string regex)`**
 <br>returns `true` if `text` matches the `regex`, `false` otherwise.
