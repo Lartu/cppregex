@@ -11,6 +11,8 @@ Of course, this requires C++11 to work.
 Include `cppregex.h` in your project and you are good to go.
 This is `#include "cppregex.h"` for those of us that like to copy & paste.
 
+Examples for every function in the library are written in `example.cpp`.
+
 ## Documentation
 Cpp regex includes the following functions:
 
